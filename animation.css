@@ -1,0 +1,41 @@
+
+header svg:hover {
+    transform: scale(1.15);
+}
+
+header svg:hover path {
+    fill: rgb(227, 134, 20)
+}
+
+.bottom_small_plate_image_image{
+    z-index: -1;
+}
+
+.bottom_small_plate:hover {
+    background-color: #F26376;
+    color: #FFF;
+}
+
+.bottom_small_plate:active {
+    background-color: #933b47;
+}
+
+.subscribe_form_input:focus {
+    outline: 0.5px solid #63757c;
+}
+
+.subscribe_form_button:hover {
+    font-size: 14.5px;
+}
+
+.subscribe_form_button:active {
+    background-color: #933b47;
+}
+
+.footer_bottom_right svg:hover .svg_path_one {
+    fill: #F26376;
+}
+
+.footer_bottom_right svg:hover .svg_path_two {
+    fill: white;
+}
